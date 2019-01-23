@@ -1,0 +1,333 @@
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: duna \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-12-17 \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-12-17 \n"
+"Last-Translator: weartstudio <support@weartstudio.eu>\n"
+
+#: 404.php:5
+#@ duna
+msgid "Error 404!"
+msgstr ""
+
+#: 404.php:6
+#@ duna
+msgid "The page you requested does not exist or has moved."
+msgstr ""
+
+#: comments.php:4
+#@ duna
+msgid "Comments"
+msgstr ""
+
+#: comments.php:9
+#@ duna
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:42
+#@ duna
+msgid "Name"
+msgstr ""
+
+#: comments.php:43
+#@ duna
+msgid "Email"
+msgstr ""
+
+#: footer.php:22
+#@ duna
+msgid "Follow us"
+msgstr ""
+
+#: footer.php:23
+#@ duna
+msgid "Social channels"
+msgstr ""
+
+#: footer.php:55
+#@ duna
+msgid "&copy; 2018 All rights reserved WeartStudio."
+msgstr ""
+
+#: search.php:5
+#@ duna
+msgid "Searched: "
+msgstr ""
+
+#: searchform.php:3
+#@ duna
+msgid "Search for..."
+msgstr ""
+
+#: functions.php:14
+#@ duna
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:15
+#@ duna
+msgid "Desktop Menu"
+msgstr ""
+
+#: functions.php:16
+#@ duna
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:16
+#@ duna
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:184
+#@ duna
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:193
+#@ duna
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:202
+#@ duna
+msgid "Article Sidebar"
+msgstr ""
+
+#: parts/items.php:7
+#@ duna
+msgid "No posts maches the criteria!"
+msgstr ""
+
+#: parts/items.php:185
+#: parts/items.php:18
+#@ duna
+msgid "by"
+msgstr ""
+
+#: parts/items.php:191
+#@ duna
+msgid "/"
+msgstr ""
+
+#: parts/items.php:196
+#@ duna
+msgid "at"
+msgstr ""
+
+#: parts/related.php:11
+#@ duna
+msgid "Related Posts"
+msgstr ""
+
+#: parts/sections.php:125
+#: parts/sections.php:240
+#@ duna
+msgid "Latest Posts"
+msgstr ""
+
+#: parts/sections.php:126
+#: parts/sections.php:241
+#: functions/widgets/latest-alternate.php:34
+#@ duna
+msgid "more"
+msgstr ""
+
+#: parts/sections.php:539
+#@ duna
+msgid "More posts!"
+msgstr ""
+
+#: functions/widgets/latest.php:16
+#@ duna
+msgid "WeartStudio: Latest Posts"
+msgstr ""
+
+#: functions/widgets/latest.php:10
+#: functions/widgets/latest-alternate.php:57
+#@ duna
+msgid "Fresh"
+msgstr ""
+
+#: functions/widgets/latest.php:50
+#: functions/widgets/latest-alternate.php:61
+#@ duna
+msgid "Title:"
+msgstr ""
+
+#: functions/widgets/latest.php:55
+#: functions/widgets/latest-alternate.php:66
+#@ duna
+msgid "Number of posts to display:"
+msgstr ""
+
+#: functions/widgets/latest-alternate.php:16
+#@ duna
+msgid "Weart: Latest Posts Alternate"
+msgstr ""
+
+#: functions/others/metadata.php:26
+#@ duna
+msgid "Video, Audio embed"
+msgstr ""
+
+#: functions/others/metadata.php:41
+#@ duna
+msgid "Add a featured video/audio to the post instead of featured image. Paste a video/audio embed code:"
+msgstr ""
+
+#: functions/customize/colors.php:6
+#@ duna
+msgid "main color"
+msgstr ""
+
+#: functions/customize/colors.php:15
+#@ duna
+msgid "secondary color"
+msgstr ""
+
+#: functions/customize/footer.php:5
+#@ duna
+msgid "Footer Settings"
+msgstr ""
+
+#: functions/customize/footer.php:19
+#@ duna
+msgid "Boxed footer layout"
+msgstr ""
+
+#: functions/customize/footer.php:31
+#@ duna
+msgid "Newsletter in footer"
+msgstr ""
+
+#: functions/customize/footer.php:43
+#@ duna
+msgid "Social in footer"
+msgstr ""
+
+#: functions/customize/footer.php:54
+#@ duna
+msgid "Copyright Text"
+msgstr ""
+
+#: functions/customize/footer.php:55
+#@ duna
+msgid "Do not use HTML elements."
+msgstr ""
+
+#: functions/customize/footer.php:67
+#@ duna
+msgid "Logo in footer"
+msgstr ""
+
+#: functions/customize/headers.php:5
+#@ duna
+msgid "Header Settings"
+msgstr ""
+
+#: functions/customize/headers.php:19
+#@ duna
+msgid "Boxed menu layout"
+msgstr ""
+
+#: functions/customize/headers.php:34
+#@ duna
+msgid "Menu Color Style"
+msgstr ""
+
+#: functions/customize/header.php:36
+#@ duna
+msgid "Dark"
+msgstr ""
+
+#: functions/customize/header.php:37
+#@ duna
+msgid "Light"
+msgstr ""
+
+#: functions/customize/header.php:48
+#@ duna
+msgid "Gradient menu style"
+msgstr ""
+
+#: functions/customize/header.php:60
+#@ duna
+msgid "Fixed menu postion"
+msgstr ""
+
+#: functions/customize/header.php:72
+#@ duna
+msgid "Big logo above menu"
+msgstr ""
+
+#: functions/customize/header.php:84
+#@ duna
+msgid "Big logo tagline beside the logo"
+msgstr ""
+
+#: functions/customize/header.php:96
+#@ duna
+msgid "Featured to category archive page"
+msgstr ""
+
+#: functions/customize/article.php:6
+#@ duna
+msgid "Main Settings"
+msgstr ""
+
+#: functions/customize/article.php:10
+#@ duna
+msgid "Article Settings"
+msgstr ""
+
+#: functions/customize/article.php:24
+#@ duna
+msgid "Display author"
+msgstr ""
+
+#: functions/customize/article.php:36
+#@ duna
+msgid "Want Pager navigation?"
+msgstr ""
+
+#: functions/customize/article.php:48
+#@ duna
+msgid "Want sticky sidebar?"
+msgstr ""
+
+#: functions/customize/article.php:60
+#@ duna
+msgid "Want Related Posts above articles?"
+msgstr ""
+
+
+#. Theme Name of the plugin/theme
+msgid "duna"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#@ duna
+msgid "http://themeforest.net/user/weartstudio"
+msgstr ""
+
+#. Description of the plugin/theme
+#@ duna
+msgid "A WordPress Theme for Food Magazines, and Blog sites."
+msgstr ""
+
+#. Author of the plugin/theme
+#@ duna
+msgid "WeartStudio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#@ duna
+msgid "http://weart.hu"
+msgstr ""

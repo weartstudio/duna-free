@@ -1,0 +1,23 @@
+.edit-post-visual-editor p {
+  font-family: "Open Sans", sans-serif; }
+.edit-post-visual-editor h1, .edit-post-visual-editor h2, .edit-post-visual-editor h3, .edit-post-visual-editor h4, .edit-post-visual-editor h5, .edit-post-visual-editor h6, .edit-post-visual-editor .f-title,
+.edit-post-visual-editor .h1, .edit-post-visual-editor .h2, .edit-post-visual-editor .h3, .edit-post-visual-editor .h4, .edit-post-visual-editor .h5, .edit-post-visual-editor .h6,
+.edit-post-visual-editor .t-sm, .edit-post-visual-editor .editor-post-title__block .editor-post-title__input {
+  font-family: "Heebo", sans-serif;
+  font-weight: normal; }
+.edit-post-visual-editor .t-xl {
+  font-size: 48px;
+  letter-spacing: -0.015em; }
+.edit-post-visual-editor .t-lg, .edit-post-visual-editor .editor-post-title__block .editor-post-title__input {
+  font-size: 40px;
+  letter-spacing: -0.015em; }
+.edit-post-visual-editor .t-md {
+  font-size: 28px;
+  letter-spacing: -0.015em; }
+.edit-post-visual-editor .t-sm {
+  font-size: 18px;
+  letter-spacing: -0.015em; }
+
+/* end of EDITOR STYLES */
+
+/*# sourceMappingURL=editor.css.map */

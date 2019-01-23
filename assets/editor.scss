@@ -1,0 +1,31 @@
+.edit-post-visual-editor{
+
+  // fonts
+    $f-title: 'Heebo', sans-serif;
+    $f-meta: 'Oswald', sans-serif;
+    $f-text: 'Open Sans', sans-serif;
+
+    p{
+      font-family: $f-text;
+    }
+
+    // title's
+      h1,h2,h3,h4,h5,h6,.f-title,
+      .h1,.h2,.h3,.h4,.h5,.h6,
+      .t-sm, .editor-post-title__block .editor-post-title__input{
+        font-family: $f-title;
+        font-weight: normal
+      }
+
+      .t-xl  { font-size: 48px; letter-spacing: -.015em }
+      .t-lg  { font-size: 40px; letter-spacing: -.015em }
+      .t-md { font-size: 28px; letter-spacing: -.015em }
+      .t-sm  { font-size: 18px; letter-spacing: -.015em }
+
+      .editor-post-title__block .editor-post-title__input{
+        @extend .t-lg;
+      }
+    // end
+  // end
+
+}/* end of EDITOR STYLES */
